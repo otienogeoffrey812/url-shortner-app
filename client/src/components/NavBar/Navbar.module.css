@@ -1,0 +1,8 @@
+.appBar {
+  top: 0;
+  background-color: white !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+  width: 80% !important;
+  padding-left: 100px  !important;
+  padding-right: 100px  !important;
+}

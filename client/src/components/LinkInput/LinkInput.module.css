@@ -1,0 +1,42 @@
+.container {
+  margin: auto;
+  margin-top: 60px;
+  height: 60px;
+  display: flex;
+  width: 80% !important;
+}
+
+.grid {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.input {
+  background-color: #eeeeee;
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 1.4em;
+  color: #9e9e9e;
+}
+
+.button {
+  width: 100%;
+  height: 100%;
+  background-color: #0d6efd !important; 
+  outline: none;
+  border: none;
+  border-bottom-right-radius: 8px;
+  border-top-right-radius: 8px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1.3em;
+  color: white !important;
+}

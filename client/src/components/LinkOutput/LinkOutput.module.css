@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px auto;
+    height: 60px;
+    background-color: #0d6efd !important;
+    border-radius: 10px;
+    width: 80% !important;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 40% !important;
+    }
+}
+
+.grid {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    color: white;
+    align-items: center;
+}
+
+.text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 10px;
+}
+
+.icon {
+    font-size: 2rem;
+    cursor: pointer;
+}
