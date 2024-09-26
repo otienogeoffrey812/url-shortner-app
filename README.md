@@ -27,7 +27,6 @@ This project implements a URL Shortener app, allowing users to shorten URLs. It 
 
 ![URL Shortner (Large Screen)](https://github.com/otienogeoffrey812/url-shortner-app/blob/master/url-shortner-home.png)
 
-![URL Shortner (Mobile)](https://github.com/otienogeoffrey812/url-shortner-app/blob/master/url-shortner-mobile.png)
 ![Shortened URL](https://github.com/otienogeoffrey812/url-shortner-app/blob/master/url-shortner-shrinked.png)
 
 
