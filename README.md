@@ -20,7 +20,7 @@ This project implements a URL Shortener app, allowing users to shorten URLs. It 
 
 ## Executing Program
 
-- To start the backend, navigate to /server and run `npm install` then `npm run start:dev`.
+- To start the backend, navigate to /server and run `npm install` then `npm run start:prod`.
 - To start the frontend, navigate to /client and run `npm install` then `npm start`.
 
 ## Screenshots
